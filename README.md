@@ -20,3 +20,13 @@ The following models were trained and evaluated:
 R² Score (higher is better)
 Root Mean Squared Error (RMSE) (lower is better)
 Mean Absolute Error (MAE) (lower is better)
+
+ Results & Findings
+🔹 Random Forest: R² = 0.60
+🔹 XGBoost (Full Dataset): R² = 0.51
+🔹 Category-Specific XGBoost Models:
+
+Multifamily HR (10+): R² = 0.98 ✅
+Nonresidential WA: R² = 0.99 ✅
+NonResidential: R² = 0.83
+📌 Key Insight: Category-specific models performed significantly better than a single model for all buildings.
