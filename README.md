@@ -30,3 +30,5 @@ Multifamily HR (10+): R² = 0.98 ✅
 Nonresidential WA: R² = 0.99 ✅
 NonResidential: R² = 0.83
 📌 Key Insight: Category-specific models performed significantly better than a single model for all buildings.
+
+📌 Next Steps: Model fine-tuning, feature engineering, and potential deployment for real-world applications.
